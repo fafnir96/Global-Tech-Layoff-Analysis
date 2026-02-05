@@ -24,6 +24,8 @@ The tech sector experienced a massive shock post-pandemic, marked by unprecedent
 
 The goal is to dissect layoff patterns based on **Geography, Industry, Company Stage, and Financial Health** to provide actionable insights for job seekers and investors.
 
+📊 **Live Dashboard:** [Click here to view the Interactive Report on Looker Studio](https://lookerstudio.google.com/reporting/8d41422d-251e-4cf9-b54e-52609337b02a)
+
 **Key Metrics:**
 * **Total Layoffs:** 558,109 employees
 * **Avg Layoff Rate:** 25.01% of workforce
